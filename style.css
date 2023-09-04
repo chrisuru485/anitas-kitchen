@@ -72,7 +72,7 @@ body{
 
 }
 #breakfast{
-    background-image: url(image/breakfast.jpg);
+    background-image: url(breakfast.jpg);
     text-align: center;
     color: white;
     flex-direction: column;
@@ -84,7 +84,7 @@ body{
 
 }
 #lunch{
-    background-image: url(image/lunch.jpg);
+    background-image: url(lunch.jpg);
     text-align: center;
     color: white;
     flex-direction: column;
@@ -95,7 +95,7 @@ body{
 
 }
 #dinner{
-    background-image: url(image/dinner.jpg);
+    background-image: url(dinner.jpg);
     text-align: center;
     color: white;
     flex-direction: column;
@@ -223,7 +223,7 @@ h2{
 
 }
 .fast-foods-zone{
-    background: url(image/foodsBg.jpg);
+    background: url(foodsBg.jpg);
     opacity: 0.8;
     width: 100%;
     height: 500px;
@@ -319,7 +319,7 @@ h2{
 }
 
 .subscribe-area{
-    background: url(image/subscribe.jpg);
+    background: url(subscribe.jpg);
     height: 200px;
     padding: 0;
     margin: 0;
