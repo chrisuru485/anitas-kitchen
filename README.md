@@ -7,7 +7,7 @@ A simple webpage that contains a collection of photos/pictures in which some are
 The basic layout of the website is simplified to a column view to provide ease in viewing the photographs as well as in reading texts that accompany some images.
 
 A live link to the website/webpage is as: 
-https://mike-njunge.github.io/Anitas-kitchen/
+https://chrisuru485.github.io/anitas-kitchen/
 
 # Tools
 
